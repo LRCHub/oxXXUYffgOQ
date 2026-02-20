@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "midnight cruising",
+  "base_artist": "04 Limited Sazabys",
+  "createdAt": "2026-02-20T17:45:28.093707Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "midnight cruising",
+      "artist": "04 Limited Sazabys",
+      "has_synced": false,
+      "path": "select/01_midnight_cruising_04_Limited_Sazabys.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Midnight Cruising",
+      "artist": "Hypnolove",
+      "has_synced": true,
+      "path": "select/02_Midnight_Cruising_Hypnolove.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Re-midnight cruising",
+      "artist": "04 Limited Sazabys",
+      "has_synced": true,
+      "path": "select/03_Re-midnight_cruising_04_Limited_Sazabys.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "midnight cruising",
+      "artist": "04 Limited Sazabys",
+      "has_synced": false,
+      "path": "select/pl_01_midnight_cruising_04_Limited_Sazabys.txt"
+    }
+  ]
+}
